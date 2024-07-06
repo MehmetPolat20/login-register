@@ -1,6 +1,6 @@
 ## Kayıt Sayfası 
 
-Html ve css ile oluşturulmuş websitesine giriş için örnek bir kayıt sayfası. 
+ 
 
 ## İzlenim
 
